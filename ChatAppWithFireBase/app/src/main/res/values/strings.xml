@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ChatAppWithFireBase</string>
+
+
+    <string name="Register_title">Create a new Account</string>
+    <string name="Login_title">Login</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="username">username</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
